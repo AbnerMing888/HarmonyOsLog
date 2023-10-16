@@ -1,0 +1,12 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "artifactType": "obfuscation"
+  },
+  "targets": [
+    {
+      "name": "default",
+      "runtimeOS": "HarmonyOS"
+    }
+  ]
+}

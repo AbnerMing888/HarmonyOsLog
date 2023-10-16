@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "log",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
