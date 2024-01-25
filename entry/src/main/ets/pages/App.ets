@@ -1,4 +1,4 @@
-import { Log } from '@app/log';
+import { Log } from '@abner/log';
 import AbilityStage from '@ohos.app.ability.AbilityStage';
 
 export default class App extends AbilityStage {

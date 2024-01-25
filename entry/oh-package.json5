@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@app/log": "file:../log"
+    "@abner/log": "file:../log"
   }
 }
 

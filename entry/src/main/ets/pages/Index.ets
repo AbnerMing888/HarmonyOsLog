@@ -1,4 +1,4 @@
-import { Log } from "@app/log"
+import { Log } from "@abner/log"
 
 @Entry
 @Component
@@ -6,6 +6,10 @@ struct Index {
   build() {
     Row() {
       Column() {
+        Text("以下打印可在控制台中查看")
+          .fontSize(14)
+          .fontColor(Color.Red)
+
         Text("打印普通日志")
           .fontSize(16)
           .fontWeight(FontWeight.Bold)
